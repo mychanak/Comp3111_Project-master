@@ -1,0 +1,33 @@
+﻿@model SinExWebApp20273938.ViewModels.ShipmentsSearchViewModel
+
+@using (Html.BeginForm("GenerateHistoryReport", "Shipments", FormMethod.Get))
+{
+    <p>
+        @Html.LabelFor(x => x.FromShippedDate, "Search Date from:    ")
+        @Html.TextBoxFor(x => x.FromShippedDate, "Please type in the correct format, e.g. 10/23/2016 12:00:00 AM")
+
+        @Html.LabelFor(y => y.FromDeliveredDate, "Search Date to:    ")
+        @Html.TextBoxFor(y => y.FromDeliveredDate, "Please type in the correct format, e.g. 10/23/2016 12:00:00 AM")
+
+        @Html.LabelFor(a => a.ShippingAccountId, "Shipping Account:    ")
+        @Html.DropDownListFor(a => a.ShippingAccountId, Model.ShippingAccounts, "Please select")
+    </p>
+
+    <p>
+        @{ /* to be done
+          <h4>Search by Shipped Date from</h4>
+          @Html.DropDownListFor("From_Year", new SelectList(ViewBag.Year), "Year")
+          @Html.DropDownListFor("From_Month", new SelectList(ViewBag.Month), "Month")
+          @Html.DropDownListFor("From_Day", new SelectList(ViewBag.Month), "Day")
+          @Html.DropDownListFor("UNTIL_Year", new SelectList(ViewBag.Year), "Year")
+          @Html.DropDownListFor("UNTIL_Month", new SelectList(ViewBag.Month), "Month")
+          @Html.DropDownListFor("UNTIL_Day", new SelectList(ViewBag.Month), "Day")
+          */
+        }
+
+
+
+    </p>
+    <input type="submit" value="Search" />
+}
+

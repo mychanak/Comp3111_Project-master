@@ -1,0 +1,47 @@
+﻿@model IEnumerable<SinExWebApp20273938.Models.PackageType>
+
+@{
+    ViewBag.Title = "Package Types";
+}
+
+<h2>Package Types</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)     
+
+                <br /> 
+
+                @foreach (var TypeItem in item.PackageTypeSizes)
+                {
+
+                    if (TypeItem.PackageTypeID == item.PackageTypeID)
+                    {
+                        //@Html.TextBoxFor(anything => TypeItem.SizeAndWeight);
+                        @Html.DisplayFor(anything => TypeItem.SizeAndWeight);                 // The <br> tag inserts a single line break.
+                        <br />
+                    }
+
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+

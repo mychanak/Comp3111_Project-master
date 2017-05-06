@@ -1,0 +1,96 @@
+@model IEnumerable<SinExWebApp20273938.Models.ServicePackageFee>
+
+@{
+    ViewBag.Title = "Service/Package Fees";
+}
+
+<h2>Service/Package Fees</h2>
+
+@using (Html.BeginForm("Index", "ServicePackageFees", FormMethod.Get))
+{
+    <h3>Fee Calculator</h3>
+    <br />
+    <p class="col-md-2">From Destination</p>
+    <p>
+        :
+        @Html.DropDownList("OriginChoice", new SelectList(ViewBag.DestinationList), "Choose Origin")
+    </p>
+    <br />
+    <p class="col-md-2">To Destination</p>
+    <p>
+        :
+        @Html.DropDownList("DestinationChoice", new SelectList(ViewBag.DestinationList), "Choose Destination")
+    </p>
+    <br />
+    <p class="col-md-2">Service Type</p>
+    <p>
+        :
+        @Html.DropDownList("ServiceTypeChoice", new SelectList(ViewBag.ServiceTypeList), "Choose Service")
+    </p>
+    <br />
+    <p class="col-md-2">Package Type</p>
+    <p>
+        :
+        @Html.DropDownList("PackageTypeChoice", new SelectList(ViewBag.PackageTypeList), "Choose Package")
+    </p>
+    <br />
+    <p class="col-md-2">Weight</p>
+    <p>
+        :
+        @Html.TextBox("WeightEntered", null)
+    </p>
+    <br />
+    <input type="submit" value="Calculate" />
+    <br />
+    <br />
+    @Html.Label("Price = ¥ ")
+    @ViewBag.TotalPrice
+
+    <br />
+    <hr />
+
+}
+@using (Html.BeginForm("Index", "ServicePackageFees", FormMethod.Get))
+{
+    <h4>Select Currency</h4>
+            @Html.DropDownList("CurrentPlace", new SelectList(ViewBag.CurrencyList), "Currency")
+            <input type="submit" value="Convert" />
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PackageType.Type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ServiceType.Type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fee)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MinimumFee)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PackageType.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceType.Type)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Fee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MinimumFee)
+            </td>
+
+        </tr>
+    }
+
+</table>

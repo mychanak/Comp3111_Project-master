@@ -1,0 +1,821 @@
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\COMP3111 Spring2017 Lab01\COMP3111 Spring2017 Lab01\SinExWebApp20273938\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\KTLEUNGAF\Desktop\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\COMP3111 Spring2017 Lab02\SinExWebApp20273938\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab02-20170217\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab03\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab06 part1\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170310\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170314 able to show result\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\lab06 part1 20170318\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\20170319\lab06 part1 20170318\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\Activity 1\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\nunit.framework.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\nunit.framework.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\ktleungaf\Desktop\SinExWebApp20273938 (Activity 1)\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll.config
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.Tests.pdb
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Owin.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\SinExWebApp20273938.pdb
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.dll
+C:\Users\Chan Man Yee\Desktop\Comp3111_Project-master\Comp3111_Project-master\SinExWebApp20273938.Tests\obj\Debug\SinExWebApp20273938.Tests.pdb

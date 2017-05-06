@@ -1,0 +1,50 @@
+﻿@model SinExWebApp20273938.Models.PickupInforation
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PickupInforation</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Shipment.ReferenceNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Shipment.ReferenceNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pickuptype)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pickuptype)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pickuplocation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pickuplocation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PickupDateTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PickupDateTime)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.WaybillId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

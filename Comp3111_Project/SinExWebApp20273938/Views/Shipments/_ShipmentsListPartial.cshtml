@@ -1,0 +1,129 @@
+﻿@model IEnumerable<SinExWebApp20273938.ViewModels.ShipmentsListViewModel>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.WaybillId )
+            </th>
+            <th>
+                @Html.ActionLink("ServiceType", "GenerateHistoryReport", new
+           {
+               sortOrder = ViewBag.ServiceTypeSortParm,
+               //currentWaybillId = ViewBag.CurrentWaybillId,
+               currentServiceType = ViewBag.CurrentServiceType,
+               currentShippedDate = ViewBag.CurrentShippedDate,
+               currentDeliveredDate = ViewBag.CurrentDeliveredDate,
+               currentRecipientName = ViewBag.CurrentRecipientName,
+               currentOrigin = ViewBag.CurrentOrigin,
+               currentDestination = ViewBag.CurrentDestination,
+               currentShippingAccountId = ViewBag.CurrentShippingAccountId
+           })
+            </th>
+            <th>
+                @Html.ActionLink("ShippedDate", "GenerateHistoryReport", new
+           {
+               sortOrder = ViewBag.ShippedDateSortParm,
+               //currentWaybillId = ViewBag.CurrentWaybillId,
+               currentServiceType = ViewBag.CurrentServiceType,
+               currentShippedDate = ViewBag.CurrentShippedDate,
+               currentDeliveredDate = ViewBag.CurrentDeliveredDate,
+               currentRecipientName = ViewBag.CurrentRecipientName,
+               currentOrigin = ViewBag.CurrentOrigin,
+               currentDestination = ViewBag.CurrentDestination,
+               currentShippingAccountId = ViewBag.CurrentShippingAccountId
+           })
+            </th>
+            <th>
+                @Html.ActionLink("DeliveredDate", "GenerateHistoryReport", new
+           {
+               sortOrder = ViewBag.DeliveredDateSortParm,
+               //currentWaybillId = ViewBag.CurrentWaybillId,
+               currentServiceType = ViewBag.CurrentServiceType,
+               currentShippedDate = ViewBag.CurrentShippedDate,
+               currentDeliveredDate = ViewBag.CurrentDeliveredDate,
+               currentRecipientName = ViewBag.CurrentRecipientName,
+               currentOrigin = ViewBag.CurrentOrigin,
+               currentDestination = ViewBag.CurrentDestination,
+               currentShippingAccountId = ViewBag.CurrentShippingAccountId
+           })
+            </th>
+            <th>
+                @Html.ActionLink("RecipientName", "GenerateHistoryReport", new
+           {
+               sortOrder = ViewBag.RecipientNameSortParm,
+              // currentWaybillId = ViewBag.CurrentWaybillId,
+               currentServiceType = ViewBag.CurrentServiceType,
+               currentShippedDate = ViewBag.CurrentShippedDate,
+               currentDeliveredDate = ViewBag.CurrentDeliveredDate,
+               currentRecipientName = ViewBag.CurrentRecipientName,
+               currentOrigin = ViewBag.CurrentOrigin,
+               currentDestination = ViewBag.CurrentDestination,
+               currentShippingAccountId = ViewBag.CurrentShippingAccountId
+           })
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumberOfPackages)
+            </th>
+            <th>
+                @Html.ActionLink("Origin", "GenerateHistoryReport", new
+           {
+               //currentWaybillId = ViewBag.CurrentWaybillId,
+               currentServiceType = ViewBag.CurrentServiceType,
+               currentShippedDate = ViewBag.CurrentShippedDate,
+               currentDeliveredDate = ViewBag.CurrentDeliveredDate,
+               currentRecipientName = ViewBag.CurrentRecipientName,
+               currentOrigin = ViewBag.CurrentOrigin,
+               currentDestination = ViewBag.CurrentDestination,
+               currentShippingAccountId = ViewBag.CurrentShippingAccountId
+           })
+            </th>
+            <th>
+                @Html.ActionLink("Destination", "GenerateHistoryReport", new
+           {
+               //currentWaybillId = ViewBag.CurrentWaybillId,
+               currentServiceType = ViewBag.CurrentServiceType,
+               currentShippedDate = ViewBag.CurrentShippedDate,
+               currentDeliveredDate = ViewBag.CurrentDeliveredDate,
+               currentRecipientName = ViewBag.CurrentRecipientName,
+               currentOrigin = ViewBag.CurrentOrigin,
+               currentDestination = ViewBag.CurrentDestination,
+               currentShippingAccountId = ViewBag.CurrentShippingAccountId
+           })
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WaybillId )
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ServiceType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShippedDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DeliveredDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RecipientName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NumberOfPackages)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Origin)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Destination)
+                </td>
+            </tr>
+        }
+
+    </table>
+
+}
